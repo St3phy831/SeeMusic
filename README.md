@@ -1,10 +1,10 @@
 # SeeMusic
-#### Description: It's a song visualizer application that allows people to see frequencies of music as a spectrum of colors.
+App Description: It's a song visualizer application that allows people to see frequencies of music as a spectrum of colors.
 ###### (created during Google CSSIx of 2020 with my partner Edgar Fuentes)
 
 ## App Features
 
-- [x] User can see the frequencies of 5 tracks as a spectrum of colors
+- [x] User can see the frequencies of 6 tracks as a spectrum of colors
 - [x] User can click on Play/Pause button to start or pause track
 - [x] User can use space bar to play and pause track as well
 - [x] User switch between songs using number keys
