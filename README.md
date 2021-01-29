@@ -5,7 +5,7 @@
 ### App Completion Details:
 - This is the final project I completed for the Google-sponsored Computer Science Computing Initiative (CSSI).
 - I collaborated with Edgar Fuentes to complete this app.
-- We used the p5 Javascript Library and p5 Sound Library to build this app.
+- We used JavaScript along with the p5.js Library and p5.js Sound Library to build this app.
 
 ### How to Run:
 - If you woulkd like to setup and run this project, you can download the repository and open the index.html file using the browser. 
