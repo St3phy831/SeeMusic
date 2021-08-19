@@ -3,7 +3,7 @@
 - It's a song visualizer application that allows people to see frequencies of music as a spectrum of colors.
 
 ### App Completion Details:
-- This is the final project I completed for the Google-sponsored Computer Science Computing Initiative (CSSI).
+- This is the final project I completed for the Google-sponsored Computer Science Summer Institute (CSSI).
 - I collaborated with Edgar Fuentes to complete this app.
 - We used JavaScript along with the p5.js Library and p5.js Sound Library to build this app.
 
